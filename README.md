@@ -1,2 +1,2 @@
 Hello, world! I'm new to Git and Github!
-Help me! Help me! Hahaha. This is fun.
+I am getting the hang of this! Wohoo!
